@@ -32,7 +32,7 @@ main {
 }
 
 .img_cover {
-  height: 48vh;
+  height: 35vh;
   background: url(../img/img.gif);
   border-radius: 10px;
   width: 80vw;

@@ -27,7 +27,7 @@ main {
 .text {
   margin: 3vh 0;
   text-transform: capitalize;
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: deeppink;
   animation: pulse 2s infinite;
 }
@@ -94,7 +94,7 @@ button:hover {
 
 .success-text {
   color: deeppink;
-  font-size: 2rem;
+  font-size: 1.5rem;
   animation: heartBeat 1.5s infinite;
 }
 

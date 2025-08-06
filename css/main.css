@@ -13,6 +13,7 @@ body {
   animation: gradientBG 10s ease infinite;
   background-size: 300% 300%;
   -webkit-animation: gradientBG 10s ease infinite;
+  overflow: hidden;
 }
 
 main {

@@ -14,6 +14,7 @@ body {
   background-size: 300% 300%;
   -webkit-animation: gradientBG 10s ease infinite;
   overflow: hidden;
+  text-transform: capitalize;
 }
 
 main {

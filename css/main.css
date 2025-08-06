@@ -36,10 +36,10 @@ main {
   height: 35vh;
   background: url(../img/img.gif);
   border-radius: 10px;
-  width: 80vw;
+  width: 100vw;
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   margin-bottom: 20px;
   transition: all 0.5s ease;
 }
@@ -94,7 +94,7 @@ button:hover {
 
 .success-text {
   color: deeppink;
-  font-size: 2.5rem;
+  font-size: 2rem;
   animation: heartBeat 1.5s infinite;
 }
 

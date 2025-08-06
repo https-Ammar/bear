@@ -9,7 +9,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: white;
+  background: #f9fbf9;
   animation: gradientBG 10s ease infinite;
   background-size: 300% 300%;
   -webkit-animation: gradientBG 10s ease infinite;
